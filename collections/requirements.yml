@@ -1,0 +1,27 @@
+---
+collections:
+  - name: ansible.posix
+
+  - name: ansible.scm
+
+  - name: ansible.utils
+
+  - name: redhat.quarkus
+
+  - name: redhat.rhbk
+
+  - name: redhat.jbcs
+
+  - name: redhat.amq_streams
+
+  - name: redhat.sso
+
+  - name: redhat.runtimes_common
+
+  - name: redhat.data_grid
+
+  - name: redhat.amq_broker
+
+  - name: redhat.jws
+
+  - name: redhat.eap
